@@ -10,7 +10,7 @@
   "dependencies": {
     "core-js": "^3.30.0",
     "vue": "^3.2.47",
-    "zksync-web3": "^0.14.3"
+    "zksync-web3": "^0.13.1"
   },
   "devDependencies": {
     "@babel/core": "^7.21.4",
